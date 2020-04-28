@@ -14,3 +14,14 @@
 body {
     font-family: 'DM Sans', sans-serif;
 }
+
+h1 {
+    color: #fff;
+}
+
+span.text-highlight {
+    background-color: #8DFFCD;
+    background-image: linear-gradient(to right, #8DFFCD 0%, #56CBF9 100%);
+    padding-left: 0.1em;
+    padding-right: 0.1em;
+}
