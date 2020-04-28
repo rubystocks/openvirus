@@ -11,6 +11,11 @@
 
 /* Ruby customisations */
 
+nav.bg-primary {
+    background-color: #8DFFCD;
+    background-image: linear-gradient(to right, #8DFFCD 0%, #56CBF9 100%);
+}
+
 body {
     font-family: 'DM Sans', sans-serif;
 }
