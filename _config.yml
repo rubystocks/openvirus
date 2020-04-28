@@ -16,13 +16,13 @@
 title: openVirus
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
-  A Bootstrap 4 start up project for Jekyll and Github Pages
+  A project which aims to aggregate virus and epidemic information from eTheses
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
-repository: "nicolas-van/bootstrap-4-github-pages"
+repository: "rubystocks/openvirus"
 
 # Build settings
 plugins:
