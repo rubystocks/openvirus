@@ -31,7 +31,23 @@ span.text-highlight {
     padding-right: 0.1em;
 }
 
+/* override built in page container */
 .container.page-content {
     margin-left: 0px;
     margin-right:0px;
+}
+
+@media (min-width: 1200px)
+.container {
+    max-width: 1600px;
+}
+
+@media (min-width: 992px)
+.container {
+    max-width: 1600px;
+}
+
+@media (min-width: 768px)
+.container {
+    max-width: 1600px;
 }
